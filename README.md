@@ -1,4 +1,6 @@
-# obstacle_avoidance_simulating_robotTitle:
+# obstacle_avoidance_simulating_robot
+
+Title:
 Simulated Autonomous Robot with Real-Time Obstacle Avoidance
 
 Description:
