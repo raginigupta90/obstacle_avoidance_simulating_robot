@@ -15,28 +15,3 @@ Robot.py:
 Robot Class: Handles initialization, obstacle avoidance, and kinematics.
 Graphics Class: Manages drawing the robot and visualizing sensor data.
 Ultrasonic Class: Simulates obstacle sensing using ultrasonic sensors.
-main.py:
-
-Initializes the simulation environment.
-Contains the main loop for handling events, updating kinematics, sensing obstacles, and updating graphics.
-Installation:
-Clone the repository:
-sh
-Copy code
-git clone https://github.com/yourusername/autonomous-robot-simulation.git
-Install the required libraries:
-sh
-Copy code
-pip install pygame numpy
-Run the simulation:
-sh
-Copy code
-python main.py
-Usage:
-Simulation: Watch the robot navigate the environment and avoid obstacles in real-time.
-Customization: Modify parameters in Robot.py and main.py to test different scenarios and algorithms.
-Contributions:
-Contributions are welcome! Please fork the repository and create a pull request with your improvements or bug fixes.
-
-License:
-This project is licensed under the MIT License.
